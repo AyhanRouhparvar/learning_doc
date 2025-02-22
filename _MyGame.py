@@ -13,10 +13,5 @@ elif player_1 == "Rock" and player_2 == "Paper":
 elif player_1 == "Paper" and player_2 == "Scissors": 
        
    
-   
-    
-elif player_1 == player_2:
-    print("thats a tie ...")
-else:
-    print("something ")    
+       
     
